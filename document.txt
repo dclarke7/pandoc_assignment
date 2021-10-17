@@ -1,0 +1,44 @@
+---
+geometry:
+- margin=1in
+header-includes:
+    - \usepackage{setspace}
+    - \doublespacing
+title: <center> <h1>Title</h1> </center>
+author:
+- "Dylan Clarke"
+...
+
+Here is some **bold text** and some *italics*.
+Here is how you make a footnote.[^1]
+You can store them at the bottom of the paragraph.[^2]
+
+[^1]: Just in case you forgot.
+[^2]: *Ibid*.
+
+# Section
+
+Here is a numbered list with a sub-list:
+
+1. The first
+    a. sub-lists in pandoc require four spaces
+    b. every time
+        i. sub sub lists require eight spaces
+        ii. every time
+2. The second
+3. The third
+
+### Subsection
+
+Here is a bulleted list:
+
+\begin{itemize}
+  \item The first bullet
+  \item The second bullet
+\end{itemize}
+
+\newpage
+
+# References 
+
+1. Harry Kalven Jr., ``General Analysis of and Introduction to the Problem of Court Congestion and Delay, A Rules and Procedures'' (1963) American Bar Association. Section of Insurance, Negligence and Compensation Law. Proceedings 322.

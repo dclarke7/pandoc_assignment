@@ -1,0 +1,30 @@
+---
+geometry:
+- margin=2in
+title: Course Title
+...
+
+
+\begin{center}
+
+Assignment
+
+\bigskip
+
+Instructor: 
+
+\bigskip
+
+Section
+
+\bigskip
+
+Word Count: \input{wc.txt}
+
+\bigskip
+
+Date: 
+
+\end{center}
+
+\thispagestyle{empty}
