@@ -9,7 +9,8 @@ author:
 - "Dylan Clarke"
 ...
 
-Here is some **bold text** and some *italics*.
+Here is some **boldface**, some *italics*, and some ``typewriter`` font.
+I can even \underline{underline some text}.
 Here is how you make a footnote.[^1]
 You can store them at the bottom of the paragraph.[^2]
 
