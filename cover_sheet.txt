@@ -4,6 +4,12 @@ geometry:
 title: Course Title
 ...
 
+\bigskip
+\bigskip 
+\bigskip 
+\bigskip
+\bigskip 
+\bigskip
 
 \begin{center}
 
