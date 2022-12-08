@@ -9,15 +9,19 @@ author:
 - "Dylan Clarke"
 ...
 
+# 1. Section Header
+
 Here is some **boldface**, some *italics*, and some ``typewriter`` font.
 I can even \underline{underline some text}.
 Here is how you make a footnote.[^1]
 You can store them at the bottom of the paragraph.[^2]
+Though, to be sure, you can make the footnote key any text, like Katz v. United States.[^Katz67]
 
 [^1]: Just in case you forgot.
 [^2]: *Ibid*.
+[^Katz67]: 389 U.S. 347, 348 (1967) [*Katz*]
 
-# Section
+## A. Subsection
 
 Here is a numbered list with a sub-list:
 
@@ -29,7 +33,8 @@ Here is a numbered list with a sub-list:
 2. The second
 3. The third
 
-### Subsection
+
+### i. Subsubsection
 
 Here is a bulleted list:
 
