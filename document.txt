@@ -36,12 +36,17 @@ Here is a numbered list with a sub-list:
 
 ### i. Subsubsection
 
-Here is a bulleted list:
+Here is a bulleted list in LaTeX:
 
 \begin{itemize}
   \item The first bullet
   \item The second bullet
 \end{itemize}
+
+It's a lot easier in ``pandoc``: 
+
+- the first bullet
+- the second bullet
 
 \newpage
 
