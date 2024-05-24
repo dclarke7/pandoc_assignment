@@ -4,7 +4,7 @@ geometry:
 header-includes:
     - \usepackage{setspace}
     - \doublespacing
-title: <center> <h1>Title</h1> </center>
+title: Title
 author:
 - "Dylan Clarke"
 ...
