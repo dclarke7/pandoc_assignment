@@ -11,6 +11,21 @@ author:
 
 # 1. Section Header
 
+Here are the opening lines to Nabokov's *Pale Fire*:
+
+I was the shadow of the waxwing slain
+By the false azure in the windowpane;
+I was the smudge of ashen fluff - and I
+Lived on, flew on, in the reflected sky.
+And from the inside, too, I'd duplicate
+Myself, my lamp, an apple on a plate:
+Uncurtaining the night, I'd let dark glass
+Hang all the furniture above the grass,
+And how delightful when a fall of snow
+Covered my glimpse of lawn and reached up so
+As to make chair and bed exactly stand
+Upon that snow, out in that crystal land!
+
 Here is some **boldface**, some *italics*, and some ``typewriter`` font.
 I can even \underline{underline some text}.
 Here is how you make a footnote.[^1]
