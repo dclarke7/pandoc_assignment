@@ -13,6 +13,7 @@ author:
 
 Here are the opening lines to Nabokov's *Pale Fire*:
 
+\begin{quote}
 I was the shadow of the waxwing slain
 By the false azure in the windowpane;
 I was the smudge of ashen fluff - and I
@@ -25,6 +26,7 @@ And how delightful when a fall of snow
 Covered my glimpse of lawn and reached up so
 As to make chair and bed exactly stand
 Upon that snow, out in that crystal land!
+\end{quote}
 
 Here is some **boldface**, some *italics*, and some ``typewriter`` font.
 I can even \underline{underline some text}.
